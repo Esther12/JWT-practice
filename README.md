@@ -5,17 +5,20 @@ This project is using the JSON web token to do the basic authentification, and i
 ### Register Routs on Postman
 
 ![Screenshot](/screenshots/register.png)
-get the id
+
+`Get the user id`
 
 ### Login Routs on Postman
 
 ![Screenshot](/screenshots/login.png)
-get the token and return "Login"
+
+`Get the token and return "Login"`
+
 ### Post Routs on Postman
 
 ![Screenshot](/screenshots/post.png)
-get the token, and add the token into the header> "auth-token"
-and the logined user's info
+
+`Get the token, and add the token into the header> "auth-token" and the logined user's info`
 # Fulture
 
 ## Secondly
